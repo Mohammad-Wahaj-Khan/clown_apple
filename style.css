@@ -1,0 +1,290 @@
+*{
+    padding: 0%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pr1 img{
+    width: 100%;
+    height: 300px;
+
+  
+}
+.pr1 h1{
+    text-align: center;
+    font-size: 2.5em;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    
+}
+.navbar{
+    background-color:rgb(39, 39, 39);
+   
+    padding: 5px 20px;
+    
+}
+.navbar .navigation {
+    display: flex;
+    
+}
+li a {
+    text-decoration: none;
+  padding: 10px 25px ;
+  
+  text-align: center;
+  font-size: small;
+    color: lightgray;
+   
+}
+.pr1 p{
+    font-family: monospace;
+    text-align: center;
+    font-size: 1.5em; ;
+}
+
+
+.pr1 p a{
+    line-height: 2em;
+    text-decoration: none;
+    font-size: 1.3em;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.pr1 p a:hover{
+    text-decoration: underline;
+    color: brown;
+}
+li a:hover{
+    text-decoration: underline;
+    color:white;
+
+}
+.container2 img{
+    width: 100%;
+    height: 250px;
+   ;
+}
+.container2 h1{
+    text-align: center;
+    font-size: 2.5em;
+   margin: 0;
+   font-family: Arial, Helvetica, sans-serif;
+   color: white;
+   
+}
+.container2 p{
+    text-align: center;
+    font-size: 1.7em;
+    color: white;
+}
+.container2{
+    width: 100%;
+    background-color: rgb(3, 1, 36);
+}
+.container2 a{
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+    color: rgb(30, 30, 233);
+    line-height: 1.5em;
+}
+.container3{
+    
+   
+    background-color: black;
+}
+.container3 img{
+    width: 100%;
+    height: 200px;
+    }
+.container3 .wer{
+    padding-top: 5%;
+    padding-left: 42.5%;
+    height: 75px;
+    width: 195px;
+}
+.container3 p{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3em;
+    line-height: 2em;
+}
+.container3 p a{
+    text-decoration: none;
+    color: rgba(0, 255, 221, 0.596);
+    word-spacing: 1em;
+}
+.container3 p a:hover{
+    text-decoration: underline;
+    color: blueviolet;
+}
+.cont4 .phone{
+    background-color: black;
+    width: 43%;
+    padding-left: 3%;
+
+}
+.phone h1{
+    text-align: center;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5em;
+}
+
+.phone p{
+    text-align: center;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    line-height: 1.5em;
+} 
+.phone p a{
+    text-decoration: none;
+    color: aqua;
+    word-spacing: 1.5em;
+}
+.phone p a:hover{
+    text-decoration: underline;
+    color: brown;
+}
+.cont4 .ipad p a{
+    text-decoration: none;
+    color: rgb(44, 44, 212);
+    line-height: 1.5em;
+}
+.cont4 .ipad{
+    width: 43%;
+padding-left: 6%;
+}
+.cont4 .ipad h1{
+    font-size: 2.5em;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.cont4 .ipad p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1.5em;
+}
+.cont4 .ipad img{
+    width: 100%;
+    height: 350px;
+
+}
+
+.cont4{
+    display: flex;
+}
+.cont5 .ultra{
+    width: 43%;
+    height: 300px;
+
+}
+.cont5 .ultra img {
+    width: 100%;
+    height: 300px;
+
+}.cont5 .ultra h1 .ultras{
+    width: 40%;
+    height: 75px;
+
+} 
+.cont5 .ultra h1{
+    text-align: center;
+}
+.cont5 .ultra p{
+    text-align: center;
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cont5 .pod{
+    width: 43%;
+    background-color: black;
+   margin-left: 10%;
+   /* height: 90px; */
+
+}
+.cont5 .pod h1{
+    color: white;
+    font-size: 2.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.cont5 .pod p{
+    color: white;
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.cont5{
+    display: flex;
+    width: 100%;
+   
+}
+[0:20 am, 04/01/2023] Ahmed Hijazi: .cont6{
+    width: 100%;
+    display: flex;
+}
+.cont6 .mac{
+    width: 45%;
+}
+.cont6 .cur{
+    width: 45%;
+    margin-left: 5%;
+}
+.cont6 h1{
+    text-align: center;
+}
+.cont6 .mac .macs{
+    width: 100%;
+    height: 350px;
+}
+.cont6 .cur .cars{
+    width: 100%;
+    height: 350px;
+
+}
+.cont6 .par{
+    text-align: center;
+    font-size: 1.2em;
+   
+    font-weight: 600;
+    
+}
+.cont6 p  { text-align: center;
+    font-size: 1.5em;
+    line-height: 1.5em;
+   
+    
+ 
+}
+.cont6 p a{
+    text-decoration: none;
+    color: lightseagreen;
+}
+.cont6 p a:hover{
+
+    color: rgb(82, 37, 37);
+    text-decoration: underline;
+}
+.cont5 p a{
+    text-decoration: none;
+    color: lightseagreen;
+}
+.cont5 p a:hover{
+    color: rgb(82, 37, 37);
+    text-decoration: underline;
+
+}
+.navbar .navigation .inp:focus{
+    background-color:white;
+    color: black;
+   
+}
+.navbar .navigation .inp{
+    border-radius: 5%;
+    background-color: gray;
+  
+}
